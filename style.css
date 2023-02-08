@@ -124,8 +124,12 @@
     .experiences-column .experience {
         display: flex;
     }
-    .experience-date {
-        
+
+    .experience-datekuno {
+        width: 190px;
+    }
+
+    .experience-date  {
         width: 250px;
     }
     
